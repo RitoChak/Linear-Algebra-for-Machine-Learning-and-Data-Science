@@ -1,4 +1,5 @@
-# Mathematics for Machine Learning and Data Science Specialization - Coursera
+# Linear Algebra for Machine Learning and Data Science
+## Mathematics for Machine Learning and Data Science Specialization - Coursera
 
 Mathematics for Machine Learning and Data Science Specialization offered by deeplearning.ai , instructed by Luis Serrano on Coursera.
 
